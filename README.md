@@ -6,7 +6,7 @@ Console Application that build brick layer by given input.
 
 ## IDE
 ```
-Visual Studio v. 16.8.3 or any other software that allows you to start .Net Core App 3.1 applications
+.Net Core App 3.1 applications
 ```
 ## How to run
 Find and load Brickwork.sln file from the directory where you downloaded it.</br>
