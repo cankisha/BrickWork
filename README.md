@@ -20,9 +20,9 @@ On the next N lines M numbers separated by a space must be inputted representing
 
 If there is no solution program throws an exception message:
 
-`
+```
 "-1  No solution exist!"
-`
+```
 
 ## Output
 The new layer will be described in N lines with M numbers in each.
